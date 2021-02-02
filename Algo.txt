@@ -1,2 +1,4 @@
 1. Choose Store
 2.Choose Pizza
+    2a. Choose Bread
+    2b. Choose Sauce
